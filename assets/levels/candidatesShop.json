@@ -1,0 +1,83 @@
+{
+  "candidateData": {
+	"info": "Candidate Specifications Data",
+	"candidates": [
+		{
+			"id": 1,
+			"name": "Bill",
+			"obamas": 1,
+			"bushs": 1,
+			"bernies": 1,
+			"bills": 1,
+			"votes": 0
+		},
+		{
+			"id": 2,
+			"name": "Jeb",
+			"obamas": 0,
+			"bushs": 0,
+			"bernies": 0,
+			"bills": 0,
+			"votes": 12
+		},
+		{
+			"id": 3,
+			"name": "Bush",
+			"obamas": 1,
+			"bushs": 1,
+			"bernies": 1,
+			"bills": 1,
+			"votes": 0
+
+		},
+		{
+			"id": 4,
+			"name": "Hillary",
+			"obamas": 0,
+			"bushs": 0,
+			"bernies": 0,
+			"bills": 0,
+			"votes": 12
+		},
+		{
+			"id": 5,
+			"name": "Obama",
+			"obamas": 1,
+			"bushs": 1,
+			"bernies": 1,
+			"bills": 1,
+			"votes": 0
+
+		},
+		{
+			"id": 6,
+			"name": "Ben",
+			"obamas": 0,
+			"bushs": 0,
+			"bernies": 0,
+			"bills": 0,
+			"votes": 12
+
+		},
+		{
+			"id": 7,
+			"name": "Bernie",
+			"obamas": 1,
+			"bushs": 1,
+			"bernies": 1,
+			"bills": 1,
+			"votes": 0
+
+		},
+		{
+			"id": 8,
+			"name": "Trump",
+			"obamas": 0,
+			"bushs": 0,
+			"bernies": 0,
+			"bills": 0,
+			"votes": 12
+		}
+	]
+  }
+}
