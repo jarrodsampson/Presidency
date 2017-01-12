@@ -7,11 +7,11 @@ An HTML5 game made with Phaser.js. Designed by [planlodge](http://planlodge.com)
 
 ## Description
 
-> Blast your way through space collecting more parts to build a bigger and better ship. Upgrade ships and weapons and make it to the final level in this fast-paced game!
+> Blast your way to the presidency! Don't let anyone stop you! Play through multiple levels fighting off Hilary in the elections while collecting Bush, Bill, Bernie, Ben Carson, and Obama pins. Collect more votes  in the form of pins on the campaign trail. Buy and collect presidential pins and aim for the highest score possible as you shoot Hillary's e-mails right back at her!
 
 ## Features
-- Upgrade ship and weapons
-- Soundtrack and great music
+- Buy from store
+- Soundtrack and sound effects
 - Multiple Levels
 - Bonus Level
 
